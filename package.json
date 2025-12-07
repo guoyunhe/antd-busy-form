@@ -1,4 +1,6 @@
 {
+  "name": "antd-busy-form",
+  "version": "0.0.1",
   "homepage": "https://github.com/guoyunhe/antd-busy-form#readme",
   "bugs": {
     "url": "https://github.com/guoyunhe/antd-busy-form/issues"
